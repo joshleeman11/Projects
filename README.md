@@ -1,9 +1,8 @@
-# Moneyball - Oakland A's
+# Hapoel Jerusalem Soccer Team - Player Shots
 ## Background
-In the early 2000s, the Oakland A's developed a strategy to redefine what makes a player valuable. 
-They figured out what player characteristics translated to wins and realized that they exploit this and pay less
-for players that other teams didn't value as much.
+The Hapoel Jerusalem Soccer Team have plenty of game footage but want to 
+visualize their shots on goal quickly all in one placewithout having to watch the entire game.
 
 ## Goal
-Using the data extracted Sean Lahman's sqlite database, I want to understand how efficient teams have been historically at spending money
-and getting wins in return and illustrate the impact that the Moneyball strategy had on the Oakland A's.
+The team has files for each game containing all the information and the goal is to convert 
+this information into graphical representations of player shots.
