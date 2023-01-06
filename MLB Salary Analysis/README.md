@@ -4,3 +4,7 @@ Anybody who looks at the current salaries of the highest paid baseball players t
 In this project, we will look both at batters and pitchers, comparing batters' salaries to other batters' salaries, and doing the same for pitchers. Our null hypothesis is that a player's performances has no affect on his salary. We hope to reject this null hypothesis, showing that there is indeed a correlation between these high-paid baseball players and their actual performace throughout the season.
 
 For a quick look, some of our data comparisons are shown below.
+<p float="left">
+  <img src="Innings Pitched Amongst Pitchers.png" width="500" />
+  <img src="Homeruns Amongst Hitters.png" width="500" /> 
+</p>
